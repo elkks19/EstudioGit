@@ -1,0 +1,17 @@
+- ¿Qué es GIT?
+
+R. Es un software que se usa para controlar la versión de archivos de texto plano que forman parte de un proyecto, haciendo 
+uso de un repositorio local, lo que nos permite usar un repositorio remoto como github o gitlab.
+
+- ¿Qué es un repositorio?
+
+R. Es una base de datos que almacena los cambios que hacemos en un proyecto de software.
+
+- ¿Qué es un commit?
+
+R. Es un punto de guardado en el que se registran los cambios realizados en archivos del proyecto hasta ese punto.
+
+- ¿Qué es una rama?
+
+R. Es una bifurcación en la línea de tiempo del repositorio, en donde se separan los cambios que hacemos, conceptualmente en 
+un espacio separado al principal
